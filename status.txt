@@ -1,3 +1,6 @@
-GhostPlayerCheat Changelogs [22/2/2021]
+- GhostPlayerCheat Updates [WORKING]
 
-This is just an Test Text. 
+Updated the Loader Design.
+Updated the Cheat Design.
+
+Silent mach dein Job und mach das neue ui fertig eee
